@@ -1,3 +1,1 @@
-# My_IBM-Data-Science-Certification
-IBM Data Science Certification Projects
-# Test Repo
+# My_IBM-Data-Science-Certification: Hands On Projects
