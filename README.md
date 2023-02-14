@@ -1,2 +1,2 @@
-# IBM-Data-Science-Professional-Certification: Capston Projects
+# IBM-Data-Science-Professional-Certification: Capstone Projects
 
